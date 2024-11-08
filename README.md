@@ -32,3 +32,43 @@
 
 ***Links:***
 <a href="https://github.com">Hello</a>
+
+***Unordered & ordered lists:***
+<ul>
+  <li>Hello</li>
+  <li>World</li>
+  <li>!</li>
+</ul>
+
+<ol>
+  <li>Hello</li>
+  <li>World</li>
+  <li>!</li>
+</ol>
+
+***Image:***
+<img src="" alt="Image">
+
+***Preformatted text:***
+<pre>
+  Hello
+  World
+</pre>
+
+***Code:***
+<code> print("hello world") </code>
+
+***Keyboard input:***
+<kbd>Ctrl</kbd>
+
+***Table:***
+<table>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+  </tr>
+  <tr>
+    <td>Jan</td>
+    <td>Feb</td>
+  </tr>
+</table>
