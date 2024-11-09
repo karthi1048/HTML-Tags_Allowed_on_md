@@ -29,6 +29,7 @@
 
 ***Strikethrough:***
 <del>hello</del>
+<s>world</s>
 
 ***Links:***
 <a href="https://github.com">Hello</a>
@@ -72,3 +73,17 @@
     <td>Feb</td>
   </tr>
 </table>
+
+***Collapsible content:***
+<details>
+  hello world
+</details>
+
+***Superscript:***
+<sup>hello</sup>
+
+***Subscript:***
+<sub>hello</sub>
+
+***Highlighted text:***
+<mark>Hello</mark>
