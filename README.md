@@ -100,9 +100,29 @@
 <q>hello</q>
 
 ***Content:***
+
 <span>hello</span>
 <span>world</span>
 
 <div>hello</div>
 <div>world</div>
 
+
+***Characters:***
+<br/>
+&#34;
+<br/>
+&#38;
+<br/>
+&#60;
+<br/>
+&#62;
+<br/>
+&#64;
+<br/>
+&#163;
+<br/>
+&#160;
+<br/>
+&#169;
+<br/>
