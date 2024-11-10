@@ -10,11 +10,11 @@
 <p>Hello World</p>
 
 ***Line break:***
-<br>
-<br>
+<br/>
+<br/>
 
 ***Horizontal rule:***
-<hr>
+<hr/>
 
 ***Block quotes:***
 <blockquote>Hello</blockquote>
@@ -46,6 +46,14 @@
   <li>World</li>
   <li>!</li>
 </ol>
+
+***Description list:***
+<dl>
+  <dt>Coffee</dt>
+  <dd>Black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>White cold drink</dd>
+</dl>
 
 ***Image:***
 <img src="" alt="Image">
@@ -87,3 +95,14 @@
 
 ***Highlighted text:***
 <mark>Hello</mark>
+
+***Inline quotation:***
+<q>hello</q>
+
+***Content:***
+<span>hello</span>
+<span>world</span>
+
+<div>hello</div>
+<div>world</div>
+
